@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,640
-# Updated: 8/18/2025  23:16 (11:16 PM CST)
+# Domains: 5,657
+# Updated: 8/24/2025  12:09 (12:09 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -123,10 +123,17 @@
 303.kim
 30na.ma
 31productions.de
+350.my
 369.xn--6frz82g
 389sport.fun
 389sport.store
+396264243-020.com
+396264243-025.com
+396264243-029.com
+396264243-033.com
+396264243-044.com
 3c5.com
+3c.pw
 3ind.com
 3le.ru
 3lo.gy
@@ -235,6 +242,7 @@
 9fx.org
 9jagistme.com.ng
 9k.gg
+9lick.me
 9o9.cc
 9oz.com
 9u9.de
@@ -677,6 +685,7 @@ bitj.us
 bitl.app
 bitlee.site
 bitli.pro
+bitl.to
 bitly1.ru
 bitly.best
 bitly.bz
@@ -703,6 +712,7 @@ bitly.ws
 bitlz.cc
 bitnew.pw
 bitnew.us
+bitq.link
 bitq.pw
 bitshort.vip
 bitshrt.com
@@ -729,6 +739,7 @@ bjli.in
 bjl.ink
 bjwfd.top
 bkjkwg.quest
+blabigo.com
 blacknig.ht
 black-panther.live
 blinko.me
@@ -2109,6 +2120,7 @@ isc-vn.org
 is.gd
 ishortify.com
 ishort.in
+ishortn.ink
 isinstance.com
 isols.co
 isot2024.live
@@ -3280,6 +3292,7 @@ olympus1000.fyi
 omedia.live
 omegalinks.in
 omxhp.com
+on4t.com
 on5.net
 one9.one
 oneany.shop
@@ -4581,6 +4594,7 @@ tiniworkfennies.live
 tinky.cc
 tinlie.com
 tinu.be
+tinurl.pro
 tiny1z.com
 tinybit.cc
 tiny.cc
@@ -4598,6 +4612,8 @@ tinyfy.io
 tinyfy.me
 tiny.ie
 tinyi.sh
+tinyl.co
+tiny-l.com
 tinyl.ink
 tinylink.ca
 tinylink.info
@@ -5531,6 +5547,7 @@ yruxd.sbs
 y.stadtfabrikanten.org
 yts.nu
 ytube.io
+ytubl.ink
 yt.vu
 ytxt.mobi
 yu3.io
