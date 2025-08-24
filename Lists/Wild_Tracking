@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 22,894
-# Updated: 8/24/2025  10:18 (10:18 AM CST)
+# Domains: 22,891
+# Updated: 8/24/2025  11:40 (11:40 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -20723,9 +20723,6 @@ stat-track.com
 stat-track-staging.com
 statuesquebrush.com
 statuesqueship.com
-status.io
-statuspage.com
-statuspage.io
 stat.v-56.com
 stayaction.com
 stcounter.com
