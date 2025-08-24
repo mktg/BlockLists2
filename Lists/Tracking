@@ -2,7 +2,7 @@
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
 # Domains: 116,742
-# Updated: 8/24/2025  11:40 (11:40 AM CST)
+# Updated: 8/24/2025  12:57 (12:57 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -30827,8 +30827,6 @@ gateway-blue.junxurecloud.com
 gateway.craftinfocus.com
 gateway.dbandit.com
 gateway.euvou.events
-gateway.facebook.com
-gateway-fallback.facebook.com
 gateway-green.junxurecloud.com
 gateway.instagram.com
 gateway.kickcollection.nl
@@ -40160,6 +40158,7 @@ knnfl.muddymats.com
 knocommerce.com
 knoinsights.com
 knotch-cdn.com
+knotch.com
 knotkettle.com
 knottysticks.com
 knottyswing.com
@@ -51819,6 +51818,7 @@ metrics.gastech.dk
 metrics.gatesnotes.com
 metrics.gazyva.com
 metrics.gcimetrics.com
+metrics.geekwire.com
 metrics.geelongadvertiser.com.au
 metrics.gemcreditline.co.nz
 metrics.gemeinsamerleben.com

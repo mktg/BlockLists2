@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 22,891
-# Updated: 8/24/2025  11:40 (11:40 AM CST)
+# Domains: 22,892
+# Updated: 8/24/2025  12:57 (12:57 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -5761,6 +5761,7 @@ knitstamp.com
 knocommerce.com
 knoinsights.com
 knotch-cdn.com
+knotch.com
 knotkettle.com
 knottysticks.com
 knottyswing.com
