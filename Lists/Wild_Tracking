@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 22,892
-# Updated: 8/24/2025  12:57 (12:57 PM CST)
+# Domains: 22,893
+# Updated: 8/24/2025  20:02 (8:02 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -3791,6 +3791,7 @@ execvision.io
 exelator.com
 exeterfinancialservices.info
 exeterfinancialservices.pro
+exeterfinancialservices.shop
 exitintel.com
 exitintelligence.com
 exit-x.net

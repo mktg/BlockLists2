@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,166
-# Updated: 8/23/2025  00:36 (12:36 AM CST)
+# Domains: 1,171
+# Updated: 8/24/2025  20:02 (8:02 PM CST)
 #
 0.0.0.0 0slot.trade
 0.0.0.0 10102.io
@@ -106,6 +106,7 @@
 0.0.0.0 beeppool.org
 0.0.0.0 beldex.io
 0.0.0.0 bestchange.com
+0.0.0.0 bevm.io
 0.0.0.0 biblepay.org
 0.0.0.0 binancechain.io
 0.0.0.0 binance.cloud
@@ -193,6 +194,7 @@
 0.0.0.0 bohemianpool.com
 0.0.0.0 bowserlab.ddns.net
 0.0.0.0 braiins.com
+0.0.0.0 bronbro.io
 0.0.0.0 browsermine.com
 0.0.0.0 bsod.pw
 0.0.0.0 btc6x.com
@@ -538,6 +540,7 @@
 0.0.0.0 gate.io
 0.0.0.0 gcko.io
 0.0.0.0 gcpool.eu
+0.0.0.0 geb.network
 0.0.0.0 geckoterminal.com
 0.0.0.0 geekcash.org
 0.0.0.0 getbze.com
@@ -742,12 +745,14 @@
 0.0.0.0 miner.tokyo
 0.0.0.0 minescripts.info
 0.0.0.0 minexmr.com
+0.0.0.0 minexteam.com
 0.0.0.0 mineyguys.com
 0.0.0.0 mining4people.com
 0.0.0.0 miningandco.com
 0.0.0.0 mining.bittubeapp.com
 0.0.0.0 miningco.net
 0.0.0.0 mining-dutch.nl
+0.0.0.0 miningethers.com
 0.0.0.0 miningfield.com
 0.0.0.0 miningfool.com
 0.0.0.0 mining-help.ru
