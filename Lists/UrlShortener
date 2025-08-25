@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,657
-# Updated: 8/24/2025  12:09 (12:09 PM CST)
+# Domains: 5,658
+# Updated: 8/25/2025  12:44 (12:44 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/UrlShortener
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -4666,6 +4666,7 @@ tj.wtf
 tkjzd.pics
 tklinknow.com
 tklinks.com
+tkopod.co
 tkshopreview.store
 tkz.es
 tlgs.info
