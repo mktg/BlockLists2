@@ -1,8 +1,8 @@
 #
 #    File: Risk
 #    Info: Worst ISP Bots/Spam, Software Hosts, Potential domains used by compromised devices
-# Domains: 843
-# Updated: 8/25/2025  12:44 (12:44 PM CST)
+# Domains: 844
+# Updated: 8/25/2025  14:41 (2:41 PM CST)
 #
 0.0.0.0 tedata.net
 0.0.0.0 te.eg
@@ -50,6 +50,7 @@
 0.0.0.0 staticai.linke.ai
 0.0.0.0 sync-image.linke.ai
 0.0.0.0 us-central1-lover-ai-chatbot.cloudfunctions.net
+0.0.0.0 lyxi.ai
 0.0.0.0 gw.vsa.ai
 0.0.0.0 withfeelingaitest.firebaseapp.com
 0.0.0.0 api.polyspeak.ai

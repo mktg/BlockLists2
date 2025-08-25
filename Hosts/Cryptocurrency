@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,171
-# Updated: 8/24/2025  20:02 (8:02 PM CST)
+# Domains: 1,173
+# Updated: 8/25/2025  14:41 (2:41 PM CST)
 #
 0.0.0.0 0slot.trade
 0.0.0.0 10102.io
@@ -916,6 +916,7 @@
 0.0.0.0 propool.ca
 0.0.0.0 proxpool.com
 0.0.0.0 proxynode.network
+0.0.0.0 publicnode.com
 0.0.0.0 public-pool.io
 0.0.0.0 pukkapool.com
 0.0.0.0 quarkchain.io
@@ -1065,6 +1066,7 @@
 0.0.0.0 uleypool.com
 0.0.0.0 ultimuspool.com
 0.0.0.0 ultranote.org
+0.0.0.0 unidex.exchange
 0.0.0.0 unimining.net
 0.0.0.0 unipool.pro
 0.0.0.0 unique.network
