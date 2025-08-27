@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 22,895
-# Updated: 8/25/2025  17:40 (5:40 PM CST)
+# Domains: 22,897
+# Updated: 8/26/2025  19:30 (7:30 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -18603,6 +18603,7 @@ petametrics.com
 petiteumbrella.com
 pghub.io
 pgi-data.com
+pgmatomo01.com
 pgtr.de
 ph3a.com.br
 ph88trk.com
@@ -21565,6 +21566,7 @@ trackyourstats.com
 tractionize.com
 tractionwise.com
 tracx.com
+tracxpert.com
 tradelab.com
 tradeswell.com
 tradetooth.com
