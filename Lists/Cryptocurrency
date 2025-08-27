@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,173
-# Updated: 8/25/2025  14:41 (2:41 PM CST)
+# Domains: 1,257
+# Updated: 8/27/2025  01:35 (1:35 AM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -36,16 +36,20 @@ abseits.ski
 acc-pool.pw
 achia.co
 actinium.org
+actionblockchain.org
 adapools.org
 adbtc.top
 ad-miner.com
 adminer.com
 adsbtc.fun
 aeon-pool.com
+aeon.xyz
 afinepool.xyz
 afminer.com
 ahashpool.com
+aiascan.com
 aikapool.com
+ailayer.xyz
 aionmine.org
 aipowergrid.io
 ajcryptominer.com
@@ -60,6 +64,8 @@ altcoinpool.ru
 altcoinwarz.com
 altpool.eu
 altpool.pro
+alveyscan.com
+alveytestnet.com
 alwayshashing.com
 amberescoin.com
 amigacoin.org
@@ -73,6 +79,7 @@ antpool.com
 anyswap.exchange
 api.cryptonator.com
 api.inwemo.com
+applayer.com
 aprovl.com
 arabianchain.org
 argoneum.net
@@ -91,6 +98,7 @@ aussie-pools.com
 authedmine.com
 authedminer.com
 authedwebmine.cz
+autonity.org
 avescoin.io
 avn.network
 awesomeminer.com
@@ -110,6 +118,7 @@ beepool.org
 beeppool.org
 beldex.io
 bestchange.com
+bethscan.io
 bevm.io
 biblepay.org
 binancechain.io
@@ -196,11 +205,14 @@ blockstack.org
 blockwarepool.com
 bluerockpools.net
 bohemianpool.com
+boolscan.com
+boomscan.io
 bowserlab.ddns.net
 braiins.com
 bronbro.io
 browsermine.com
 bsod.pw
+bsquared.network
 btc6x.com
 btc-alpha.com
 btcc.com
@@ -232,6 +244,7 @@ bytecoins.world
 bytepool.com
 c3pool.com
 cafebitcoin.com
+canxium.org
 capcut.pics
 cayunbtc.com
 cbtoken.me
@@ -409,6 +422,7 @@ cryptowat.ch
 crypto-webminer.com
 crystaleum.org
 csgocpu.com
+cuckoo.network
 currency.com
 d00.org
 dapool.io
@@ -418,11 +432,13 @@ darwinia.network
 dashblockexplorer.com
 dashninja.pl
 datasecu.download
+dbcscan.io
 dcrblockexplorer.com
 dcrdata.org
 deadcoin.club
 debutech.de
 deepfields.io
+defi-verse.org
 deltapool.net
 dentacoin.com
 deribit.com
@@ -443,9 +459,11 @@ dogelumens.com
 dogether.dog
 dogpool.one
 dominoprotocol.com
+doscan.io
 dpool.top
 dragonchain.com
 dragonpuddle.com
+duckchain.io
 dwarfpool.com
 dxmkt.com
 dxpool.com
@@ -461,6 +479,7 @@ ecoxch.io
 edelcoin.com
 eelpool.com
 egem.io
+egoscan.io
 ekapool.com
 eleccoin.org
 electrum.org
@@ -472,6 +491,7 @@ elysiumchain.tech
 elysiumpool.com
 emc2.foundation
 emcd.io
+emcscan.com
 emeraldcrypto.de
 emercoin.com
 epool.io
@@ -481,6 +501,7 @@ etcblockexplorer.com
 etc-pool.com
 etcturk.com
 ethcore.ru
+ethda.io
 ether1.org
 ethercore.io
 ethereum.org
@@ -497,14 +518,17 @@ etorostatic.com
 evepool.pw
 evergreencoin.org
 everstake.one
+evoexplorer.com
 evrpool.com
 excc.co
 exodus.com
 exploredvt.com
+exsat.network
 extremehash.io
 exx.com
 ezil.me
 f2pool.com
+facet.org
 fairhash.org
 fairpool.cloud
 fairpool.xyz
@@ -547,6 +571,7 @@ gcpool.eu
 geb.network
 geckoterminal.com
 geekcash.org
+geekout-pte.com
 getbze.com
 getcrypto.info
 getcryptotab.com
@@ -571,6 +596,8 @@ groestlcoin.org
 gteh.org
 gus.host
 h9.com
+haqq.network
+harmony.one
 hash.blue
 hashcity.org
 hashfaster.com
@@ -592,6 +619,7 @@ hedgehog.app
 helius-rpc.com
 hellominer.com
 helpico.tech
+hemi.xyz
 herbsters.com
 herominers.com
 hiveon.net
@@ -605,12 +633,15 @@ humpool.com
 huobi.com
 huobipool.com
 huopool.com
+hydrachain.org
 hyperdonkey.com
+hypra.network
 ibotta1.cc
 icanmining.ru
 icemining.ca
 icrypto.media
 idcray.com
+iex.ec
 ihashrate.com
 ikpool.com
 inetrader.com
@@ -625,6 +656,8 @@ ironfish.network
 isotopec.org
 istlandoll.com
 jambler.io
+japanopenchain.org
+jibl2.com
 jingniupool.com
 jjpool.fr
 joyreactor.cc
@@ -638,6 +671,7 @@ jup.ag
 jyhfuqoh.info
 jzero.xyz
 k1pool.com
+kalichain.com
 kano.is
 karbo.io
 karbowanec.com
@@ -646,6 +680,7 @@ kaspa.org
 kaspa-pool.org
 kawkawcoin.org
 kdowqlpt.info
+keeex.me
 keplr.app
 kievpool.com
 kiirocoin.org
@@ -656,6 +691,7 @@ kiwifar.ms
 kiwifarms.net
 k-miners.com
 koii.network
+konetexplorer.io
 kouvr.com
 kraken.com
 kriptokyng.com
@@ -668,8 +704,10 @@ kucoin.com
 kucoin.top
 kucoln.com
 kujira.app
+laikachain.dog
 lamba.top
 lanacoin.com
+laosnetwork.io
 latoken.com
 laurentiapool.org
 leafpool.com
@@ -678,15 +716,18 @@ letshash.it
 letshash.online
 leywapool.com
 liberty-pool.com
+lif3scout.com
 lightninginabox.co
 lightning.network
 lincoin.com
+linea.build
 listat.biz
 litecoinpool.org
 litesolo.org
 livebitcoinnews.com
 llama.horse
 lmodr.biz
+load.network
 localbetcoins.net
 localbitcoins.com
 lolopool.com
@@ -697,6 +738,7 @@ luckymonster.pro
 luckypool.io
 luckypool.org
 ludicorp.com
+lummio.net
 luxor.tech
 m2pool.eu
 macyan.net
@@ -704,10 +746,13 @@ magicpool.co
 majanetwork.com
 malictuiar.com
 mangopool.eu
+mantle.xyz
 marapool.com
 mastermining.net
 mataharirama.xyz
+matchscan.io
 maxhash.org
+maxi.network
 maxminers.net
 maxxchain.org
 mcmpool.eu
@@ -715,7 +760,10 @@ meatec.io
 mecrypto.club
 mempool.com
 merit.me
+metalscan.io
 metamask.io
+metisdevops.link
+metis.io
 mibpool.com
 microvisionchain.com
 millpools.cc
@@ -804,6 +852,7 @@ multitrust.cc
 mutuza.win
 my2coins.com
 mycrypto.com
+mydefichain.com
 myetpminer.com
 myezcoin.com
 myminers.org
@@ -812,6 +861,8 @@ mymonero.com
 mynewmining.com
 mypool.online
 myregeneaf.com
+nahmii.io
+nanon.network
 nanopool.org
 neoxa.net
 netcoins.ca
@@ -844,16 +895,22 @@ nushypool.com
 nyxcoin.org
 ocean.xyz
 ocprotocol.com
+octa.space
 okcash.co
 okcoin.com
 okex.com
 okkong.com
 okminer.com
 okx.com
+omaxscan.com
 onebitco.com
 onehash.com
 oneworldchain.org
+onfascan.com
 openchains.info
+optimusz7.com
+optopia.ai
+ozonescan.org
 p1pool.com
 p2pool.io
 p2p-spb.xyz
@@ -863,14 +920,17 @@ pacificpool.ws
 pampopholf.com
 pancakeswap.finance
 pandaminer.com
+pandorachain.org
 pangolinminer.com
 papoto.com
 parity.io
 party-nngvitbizn.now.sh
+pburtlecreative.co.uk
 pcmining.xyz
 pdss2access.com
 peercoin.net
 pega-pool.com
+pego.network
 peopleland.net
 pesetadigital.es
 pexaproject.com
@@ -882,6 +942,8 @@ picopool.org
 pigrofelice.com
 pioncoin.org
 pirl.network
+pkrdscan.com
+planq.network
 pmpmining.com
 polcoin.pl
 poljkastarter.com
@@ -923,10 +985,13 @@ proxynode.network
 publicnode.com
 public-pool.io
 pukkapool.com
+pwrlabs.io
+qitmeer.io
 quarkchain.io
 quicknode.com
 quiknode.pro
 qwertycoin.org
+racescan.io
 radiantexplorer.com
 radiant.ovh
 raptoreum.com
@@ -948,6 +1013,7 @@ reversedbitcoin.org
 richpool.pro
 rocknblock.io
 rocks.io
+rollux.com
 rosebird.org
 rplant.xyz
 ru-poolbe.ru
@@ -957,6 +1023,7 @@ rustpool.xyz
 rwinfo.club
 rxdpool.com
 ryo-currency.com
+saakuru.network
 safex.io
 safex.org
 sargatxet.cloud
@@ -964,13 +1031,16 @@ satopool.com
 saturnpool.com
 sbicrypto.com
 scalaproject.io
+scschain.com
 secpool.com
 securepayment.cc
 semipool.com
+sgverse.net
 shapeshift.com
 shardpool.io
 shibatoken.com
 shib.io
+shinescan.io
 siamining.com
 sigmapool.com
 signumcoin.ro
@@ -999,9 +1069,12 @@ spiderpool.com
 spotmecoin.com
 sprintpay.net
 squiremining.com
+srmscan.io
 stage.bittube.app
+statemesh.net
 static.reasedoper.pw
 steadyhash.org
+steamexchange.io
 steam-up.ru
 stex.com
 stohncoin.org
@@ -1016,8 +1089,12 @@ suprnova.cc
 sushipool.com
 svpool.com
 swampthing.net
+swanchain.io
 taal.com
+tabiscan.com
+taker.xyz
 talkether.org
+tanenbaum.io
 tazmining.ch
 tbdice.org
 tdcoincore.org
@@ -1090,6 +1167,7 @@ veriblock.org
 veriblockpool.com
 vericoin.info
 vertcoin.org
+veryscan.io
 viabtc.com
 viawallet.com
 vinchain.io
@@ -1097,6 +1175,8 @@ vip69.ru
 vipbit.biz
 vipor.net
 virdpool.com
+vitruveo.xyz
+vizing.com
 volt-mine.com
 vvpool.com
 wafflepool.com
@@ -1139,6 +1219,7 @@ xazab.xyz
 xbasfbno.info
 xchain.io
 xdagmine.com
+xga.com
 xingyun.io
 xlon.org
 xminingpool.com
@@ -1171,6 +1252,7 @@ zergpool.com
 zeroclassic.org
 zerocurrency.io
 zero.directory
+zero.network
 zeropool.io
 zetpool.org
 zet-tech.eu
@@ -1181,3 +1263,5 @@ zpool.ca
 zsolo.bid
 ztyj0000.com
 zulupool.com
+zypher.game
+zypher.network
