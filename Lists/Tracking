@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 119,506
-# Updated: 8/27/2025  01:52 (1:52 AM CST)
+# Domains: 119,510
+# Updated: 8/28/2025  13:59 (1:59 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -21693,6 +21693,7 @@ collect.mindbodyonline.com
 collect.misterjames.com
 collect.mlds.nl
 collect.moomoo.com
+collect.mwg.aaa.com
 collect.nature.com
 collect.newstartcap.com
 collect.oportun.com
@@ -106902,6 +106903,7 @@ stmetrics.bbva.pe
 stmetrics.bbvaseguros.mx
 stmetrics.grupobbva.pe
 stm.feedfood.com.br
+stmg-prod.express.co.uk
 stmg-prod.mirror.co.uk
 stmg-prod.themirror.com
 stm.klassekampen.no
@@ -108181,6 +108183,7 @@ tags.microbank.com
 tags.mindbodyonline.com
 tags.moneytopay.com
 tags.mutua.es
+tags.mwg.aaa.com
 tags.mysynchrony.com
 tags.nab.com.au
 tags.nationwide.com
@@ -111010,6 +111013,7 @@ tracking.heycommerce.dk
 tracking.heyflow.cloud
 tracking.hilde-domin-schule.de
 tracking.historianet.nl
+tracking.hivecloud.net
 tracking.hmp.store
 tracking.homefans.com
 tracking.hoppeswelt.de
