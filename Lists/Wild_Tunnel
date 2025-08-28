@@ -1,8 +1,8 @@
 #
 #    File: Wild_Tunnel
 #    Info: VPNs & Proxies
-# Domains: 872
-# Updated: 8/23/2025  10:23 (10:23 AM CST)
+# Domains: 876
+# Updated: 8/27/2025  22:52 (10:52 PM CST)
 #
 #     RAW: https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Wild_Tunnel
 #     Git: https://github.com/ShadowWhisperer/BlockLists.git
@@ -310,6 +310,7 @@ myproxy.help
 myproxy.link
 myproxy.lol
 myproxysite.org
+mysiteunblocked.com
 mywebproxy.in
 mzhlhrfr8z.info
 napps-1.com
@@ -510,8 +511,11 @@ sitesunblocked.com
 sitesunblocked.info
 sitesunblocked.net
 sitesunblocked.org
+siteunblocked.club
 siteunblocked.icu
 siteunblocked.lol
+siteunblocked.net
+siteunblocked.org
 siteunblocked.space
 siteunblocked.website
 siteunblocked.xyz
